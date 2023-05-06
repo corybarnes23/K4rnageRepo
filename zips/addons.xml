@@ -3,8 +3,8 @@
        <addon id="repository.K4rnageRepo" Name" version="1.0" provider-name="Cory Barnes">
 	<extension point="xbmc.addon.repository" name="Name you want to appear in Kodi">
 		<dir>
-			<info compressed="false">http://**Yourrepourl***/zips/addons.xml</info>
-			<checksum>http://**Yourrepourl***/zips/addons.xml.md5</checksum>
+			<info compressed="false">https://github.com/corybarnes23/K4rnageRepo/blob/main/zips/addons.xml</info>
+			<checksum>https://github.com/corybarnes23/K4rnageRepo/blob/main/zips/addons.xml.md5</checksum>
 			<datadir zip="true">http://**Yourrepourl***/zips/</datadir>
 		</dir>
 		<dir>
