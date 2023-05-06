@@ -5,7 +5,7 @@
 		<dir>
 			<info compressed="false">https://github.com/corybarnes23/K4rnageRepo/blob/main/zips/addons.xml</info>
 			<checksum>https://github.com/corybarnes23/K4rnageRepo/blob/main/zips/addons.xml.md5</checksum>
-			<datadir zip="true">http://**Yourrepourl***/zips/</datadir>
+			<datadir zip="true">https://github.com/corybarnes23/K4rnageRepo/blob/main/repo/repository.K4rnageRepo-1.0.zip</datadir>
 		</dir>
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
